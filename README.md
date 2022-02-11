@@ -1,4 +1,4 @@
-# zig2rs
+# ✨ *zig2rs* ✨
 Have you ever wanted to use two of the objectively best programming languages out there - Rust and Zig - at the same time? Has linking applications through C ABI tired you? Well then look no further, as my solution will revolutionise the world of software development!
 
 ## Why?
